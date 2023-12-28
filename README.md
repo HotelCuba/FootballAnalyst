@@ -1,2 +1,1 @@
 # FootballAnalyst
-# MyPlatformerProject
